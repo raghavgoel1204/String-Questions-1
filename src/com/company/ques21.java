@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Scanner;
-
+//program to find a string is pallindrome or not
 public class ques21 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
