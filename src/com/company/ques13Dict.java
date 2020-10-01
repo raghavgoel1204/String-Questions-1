@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-
+//Program to accept two strings and tell which comes later in lexicographics order(dictionary order). If equal how appropriate message.
 public class ques13Dict {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
